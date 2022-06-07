@@ -1,2 +1,2 @@
 # Solar System Simulator
-Rescaled simulation to fit more planets.
+Rescaled simulation to fit and simulate more planets.
