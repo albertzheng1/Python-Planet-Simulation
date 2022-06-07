@@ -1,1 +1,1 @@
-# Python-Planet-Simulation
+# Solar System Simulator
